@@ -1,0 +1,6 @@
+#lang pollen
+
+index.html
+◊philosophy.html{
+    philosophy/identity.html
+}

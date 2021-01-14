@@ -1,0 +1,2 @@
+{:main viz.core
+ :output-to "js/viz.js"}
