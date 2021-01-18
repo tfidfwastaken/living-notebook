@@ -1,4 +1,4 @@
-POLLEN := $(wildcard *.p *.pm *.pp ./*/*.pm ./*/*.pp ./*/*.p)
+POLLEN := $(wildcard *.ptree *.p *.pm *.pp ./*/*.pm ./*/*.pp ./*/*.p)
 CLJS := $(wildcard cljs-src/viz/*.cljs *.edn)
 JS-OUT := js/*.js
 POLLEN-TARGET := ../notebook-out/*
@@ -25,6 +25,7 @@ clean:
 .ONESHELL:
 publish: build
 	cd ${POLLEN-OUT}
+	@pwd
 	git add .
 ifdef m
 	git commit -m "$$m"
@@ -35,6 +36,7 @@ endif
 
 setup:
 	git init ${POLLEN-OUT}
+	cd ${POLLEN-OUT}
 	git remote add origin ${PUBLISH_REMOTE}
 
 .PHONY: all build clean publish setup

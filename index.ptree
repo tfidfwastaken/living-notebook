@@ -1,6 +1,6 @@
 #lang pollen
 
 index.html
-◊philosophy.html{
+◊section_philosophy{
     philosophy/identity.html
 }
