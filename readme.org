@@ -1,5 +1,10 @@
 * Source for Atharva’s Living Notebook
-  This frankenstein's monster uses [[http://pollenpub.com][pollen]] (for the content) + [[https://clojurescript.org/][clojurescript]] (for the homepage visualization)
+  This Frankenstein's Monster uses [[http://pollenpub.com][pollen]] (for the content) + [[https://clojurescript.org/][clojurescript]] (for the homepage visualization)
 
 ** Build
-   [TBA]
+   =make setup= for the first time setup, and =make build= for a rebuild.
+
+** TODO
+   - [ ] CI/CD stuff
+   - [ ] Make it mobile friendly
+   - [ ] Finish this readme
