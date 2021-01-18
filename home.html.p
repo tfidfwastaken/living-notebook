@@ -21,7 +21,7 @@
         <div class="section">
           <div class="section-header">Philosophy</div>
             <ul>
-            ◊for/splice[([article (in-list (children 'philosophy.html))])]{
+            ◊for/splice[([article (in-list (children 'section_philosophy))])]{
             <li><a href="◊|article|">◊(select-from-metas 'title article)</a></li>
             }
             </ul>

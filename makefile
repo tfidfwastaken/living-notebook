@@ -3,6 +3,7 @@ CLJS := $(wildcard cljs-src/viz/*.cljs *.edn)
 JS-OUT := js/*.js
 POLLEN-TARGET := ../notebook-out/*
 POLLEN-OUT := ../notebook-out/
+POLLEN-OUT-CNAME := ../notebook-out/CNAME
 PUBLISH_REMOTE := git@github.com:tfidfwastaken/tfidfwastaken.github.io.git
 
 all: build
@@ -15,7 +16,14 @@ ${JS-OUT}: ${CLJS}
 ${POLLEN-TARGET}: ${POLLEN}
 	@echo "changed:" ${POLLEN}
 	mkdir -p ${POLLEN-OUT}
+	cp CNAME ${POLLEN-OUT-CNAME}
+	raco pollen render
 	raco pollen publish . ${POLLEN-OUT}
+	rm -rf .cpcache/
+	rm -rf resources/*
+	cd ${POLLEN-OUT}
+	git init ${POLLEN-OUT}
+	git remote add origin ${PUBLISH_REMOTE}
 
 clean:
 	rm -rf compiled/
@@ -32,7 +40,7 @@ ifdef m
 else
 	git commit -m "Updated website"
 endif
-	git push origin master
+	git push -f origin master
 
 setup:
 	git init ${POLLEN-OUT}

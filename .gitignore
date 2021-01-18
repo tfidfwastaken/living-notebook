@@ -11,11 +11,13 @@
 *.log
 *.xml
 *.toc
+CNAME
 compiled/
 pollen-cache/
 drafts/
 target/
 resources/
+resources/*
 .cpcache/
 pollen.cache
 .DS_Store
