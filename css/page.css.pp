@@ -33,7 +33,7 @@
 .content {
     display: grid;
     grid-area: page;
-    grid-template-rows: 4em 1fr;
+    grid-template-rows: auto 1fr;
     grid-template-columns: 1fr 40% 1fr;
     grid-template-areas:
         "title title title"
@@ -44,6 +44,7 @@
 .content .page-title {
     grid-area: title;
     margin-top: 1em;
+    margin-bottom: 0;
 }
 
 .content .page-content {
