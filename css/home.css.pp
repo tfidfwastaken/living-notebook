@@ -23,6 +23,7 @@ img {
 
 .home-header {
     font-family: ◊|sans-fonts|;
+    color: #333;
     margin-bottom: 0.3em;
     font-size: 3em;
     font-weight: 600;
@@ -38,8 +39,7 @@ img {
     font-size: 0.85em;
     color: #555;
     font-family: ◊|sans-fonts|;
-    font-variant-caps: all-small-caps;
-    padding-bottom: 0.2em;
+    padding-bottom: 0.25em;
     border-bottom: 1px solid #777;
 }
 

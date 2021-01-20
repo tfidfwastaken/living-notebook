@@ -1,10 +1,12 @@
 #lang racket/base
 
 (require pollen/decode pollen/tag
-         txexpr hyphenate)
+         txexpr hyphenate
+         "section_info.rkt")
 
 (provide root sn
-         base-font-size body-fonts sans-fonts)
+         base-font-size body-fonts sans-fonts
+         sections)
 
 (define (root . items)
   (decode (txexpr 'root '() items)

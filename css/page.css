@@ -24,22 +24,28 @@
     justify-self: center;
 }
 
+.nav a::after {
+    content: "";
+}
+
 .content {
     display: grid;
     grid-area: page;
     grid-template-rows: 4em 1fr;
-    grid-template-columns: 1fr 20% 20% 1fr;
+    grid-template-columns: 1fr 40% 1fr;
     grid-template-areas:
-        "title title title title"
-        "content content content side";
+        "title title title"
+        "content content side";
 
 }
 
-.content h1 {
+.content .page-title {
     grid-area: title;
+    margin-top: 1em;
 }
 
 .content .page-content {
+    align-self: start;
     grid-area: content;
     text-align: justify;
     line-height: 1.45;
@@ -53,4 +59,15 @@
     float: right;
     width: 30%;
     transform: translateY(-30%);
+}
+
+#me {
+    display: block;
+    border: 10px solid #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: auto;
+    margin-top: 2em;
+    margin-right: auto;
+    width: 60%;
+    transform: rotate(-3deg);
 }

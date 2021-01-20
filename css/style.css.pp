@@ -2,6 +2,8 @@
 
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&family=Source+Serif+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 html {
     font-size: ◊|base-font-size|em;
 }
@@ -18,14 +20,20 @@ body {
 }
 
 a {
+    color: #333;
+    border-radius: 4px;
     outline: none;
     text-decoration: none;
     padding: 2px 1px 0;
-    border-bottom: 2px solid #666;
     transition: 0.2s ease-in-out;
+}
+
+a::after {
+    font-size: 70%;
+    vertical-align: top;
+    content: "\200a𐩒";
 }
 
 a:hover {
     background-color: #fff5b9;
-    border-bottom: 2px solid #333;
 }
