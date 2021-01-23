@@ -1,6 +1,6 @@
 #lang pollen
 
-◊(define-meta title "The Secret to a Bad Lecture")
+◊(define-meta title "How to give a Bad Lecture")
 
 As a full-time student who has sat in countless lousy lectures for over a decade and a half, I have attained immense wisdom on how to give a bad lecture.
 
@@ -22,7 +22,7 @@ It is important for you to cultivate hazy thinking. Having clarity of thought mi
 
 Never let the students feel like you may be capable of addressing the questions that pop in their head. If a student asks you a question, just restate the bullet point in the slide that was related to their question. Append your answer with "Are you getting it?". Done enough times, this will ensure that the student gives up on trying to understand the idea. They will say yes because of the pressure of appearing stupid.
 
-It is a common myth that in order to be a bad lecturer, you must avoid interactivity. Many bad lectures can have interactive components, as long as the right kind of interactivity is chosen. You must engage in the most superficial ways possible. Avoid asking the class for questions that require contemplation. Instead every once in a while, just broadcast to your class questions that involve recollection of raw facts. Ask your students questions that no one will want to answer, as they do not want to speak for others. These may include: "Do you have any doubts?", "Are you following me?", "Am I going too fast?", "Shall I move on?". Beat that dead horse so profusely that it starts clopping on the floor again by mere force. To add to the resentment, proceed to complain about the lack of interactivity in the class. This will ensure that you will not be bothered by them again.
+It is a common myth that in order to be a bad lecturer, you must avoid interactivity. Many bad lectures can have interactive components, as long as the right kind of interactivity is chosen. You must engage in the most superficial ways possible. Avoid asking the class questions that require contemplation. Instead every once in a while, just broadcast to your class questions that involve recollection of raw facts. Ask your students questions that no one will want to answer, as they do not want to speak for others. These may include: "Do you have any doubts?", "Are you following me?", "Am I going too fast?", "Shall I move on?". Beat that dead horse so profusely that it starts clopping on the floor again by mere force. To add to the resentment, proceed to complain about the lack of interactivity in the class. This will ensure that you will not be bothered by them again.
 
 Do not take any feedback. If you must, make sure it is not anonymous. Blame the students for not understanding or cooperating. Surely, it must be their fault, that their dull minds cannot keep up with your teaching efforts. If anyone does muster up enough courage to send you feedback, make them regret it by taking it as a personal attack.
 
