@@ -1,0 +1,29 @@
+#lang pollen
+
+◊(define-meta title "The Secret to a Bad Lecture")
+
+As a full-time student who has sat in countless lousy lectures for over a decade and a half, I have attained immense wisdom on how to give a bad lecture.
+
+The key idea is the lack of soul. Every bad lecture starts with the request to settle down (or the online counterpart---"Am I audible?"). This is the peak of the lecture. You must proceed to dispense words, weasel words, and more words, stripped of meaning to leave behind what the brain can only process as arid sounds and syllables, with no pause for thought, no passion and no humanity.
+
+The sole strength of the lecture is the human touch. Books are more vast and carefully designed to help us learn concepts. Videos can have fancy visuals that help ideas click in our heads without words. A lecture has none of those---it's too coarse for subtle details, too spontaneous to be elaborate or visually appealing. But the lecture has the lecturer, the sum of a whole human life, their unique experiences, goals, passion and mind. This is the sole stilt that supports this shed. Your role as a bad lecturer, is to burn down this stilt and snort the ashes, before you begin your class.
+
+Feel the pages of the reference textbook for your course material. Notice how dead the paper is? Don't be fooled by the text in that book that leaps into life with its conceptual richness and the author's fascination of the subject. The paper is what you must imitate.
+
+Do not explain the big picture or the motivation to learn the topic you are teaching. Never assemble ideas together to form a coherent picture. Do not show how these ideas form patterns across many fields that broaden our understanding of the world. Repeat after me. Wonder is blunder. Wonder is blunder. You must instead, emphasize on which points are important from the examination point of view.
+
+Strip out all references to yourself and your experiences in the lecture. Avoid using the word "I". Avoid giving your perspective. Avoid using a conversational tone, opt instead for cluttered language with a lot of jargon. Avoid eye contact with students. Run your lecture like a chore. Do not think of your work as the development of future citizens who shall work on the progress of humanity.
+
+Do not use the blackboard. Use PowerPoint slides, where you have copied a lot of text from the reference textbook verbatim. Ensure that there is enough text that students will not know whether to read or to listen to you. Restate all the content in the slides in your lecture. Do not provide any new information or add context. This will ensure that the two students who were trying to pay attention will lose you as well. If you must use the blackboard, randomly sample words you are saying and put them on the board to make it seem important. Do not try to organize the information in a sensible fashion.
+
+Refer to your course information before your class. Look at the syllabus that needs to be covered for the day. Do not plan more than that. Of course, do not be too spontaneous or comfortable in class either. Any accidental glimpse of the lecturer's humanity might make your lecture remotely interesting. Focus on the checkpoint, that is the syllabus that needs to be covered. Sprint to that goal post, through your meandering monotone sustained for an hour.
+
+It is important for you to cultivate hazy thinking. Having clarity of thought might lead to your lecture being clear. This may accidentally grab the attention of your students. Never use unambiguous, concise sentences. Never stop for pauses. Never ponder. Make sure you are always droning in filler words, weasel words, uhhs, ums, geddits and okays. Your classes should avoid having spaced out beats, and instead adopt the tonal quality a muddy, continuous buzz.
+
+Never let the students feel like you may be capable of addressing the questions that pop in their head. If a student asks you a question, just restate the bullet point in the slide that was related to their question. Append your answer with "Are you getting it?". Done enough times, this will ensure that the student gives up on trying to understand the idea. They will say yes because of the pressure of appearing stupid.
+
+It is a common myth that in order to be a bad lecturer, you must avoid interactivity. Many bad lectures can have interactive components, as long as the right kind of interactivity is chosen. You must engage in the most superficial ways possible. Avoid asking the class for questions that require contemplation. Instead every once in a while, just broadcast to your class questions that involve recollection of raw facts. Ask your students questions that no one will want to answer, as they do not want to speak for others. These may include: "Do you have any doubts?", "Are you following me?", "Am I going too fast?", "Shall I move on?". Beat that dead horse so profusely that it starts clopping on the floor again by mere force. To add to the resentment, proceed to complain about the lack of interactivity in the class. This will ensure that you will not be bothered by them again.
+
+Do not take any feedback. If you must, make sure it is not anonymous. Blame the students for not understanding or cooperating. Surely, it must be their fault, that their dull minds cannot keep up with your teaching efforts. If anyone does muster up enough courage to send you feedback, make them regret it by taking it as a personal attack.
+
+This is of course just one set of many strategies for a bad lecture. The methods I suggested are highly prevalent and culturally accepted by the educational institutions in this country. Unlike the other fairly popular methods, this does not require you to be morally void, highly egotistical, bigoted or unempathetic. Even someone fairly smart and competent can succeed with the aforementioned strategies.

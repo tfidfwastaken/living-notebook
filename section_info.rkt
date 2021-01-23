@@ -3,7 +3,7 @@
 (provide sections)
 
 (define sections
-  '("philosophy"))
+  '("education"))
     #|
     "opinions"
     "education"
