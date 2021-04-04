@@ -12,7 +12,7 @@
       <div class="main-side">
         <div id="sketch">
         </div>
-        <span id="about"><a href="about.html">about</a></span>
+        <span id="side-links"><a href="about.html">about</a> · <a href="">colophon</a> · <a href="https://github.com/tfidfwastaken/living-notebook">source</a></span>
       </div>
       <div class="main">
         <div class="home-header">

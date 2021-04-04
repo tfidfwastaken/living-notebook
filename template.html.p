@@ -13,9 +13,11 @@
       <div class="nav">
         ◊(define prev-page (previous here))
         ◊(define next-page (next here))
-        ◊when/splice[prev-page]{ <a href="" title="◊|prev-page|">← </a> ·}
+        ◊(define (not-section-start? page)
+           (not (regexp-match? #rx"section_*" (symbol->string prev-page))))
+        ◊when/splice[(and (not-section-start? prev-page) prev-page)]{ <a href="" title="◊(select-from-metas 'title prev-page)">← </a> ·}
         <a href="/" title="home">⌂</a>
-        ◊when/splice[next-page]{· <a href="" title="◊|next-page|"> →</a> }
+        ◊when/splice[(and (not-section-start? prev-page) prev-page)]{· <a href="" title="◊(select-from-metas 'title next-page)"> →</a> }
       </div>
       <div class="content">
         <h1 class="page-title">
@@ -24,6 +26,11 @@
         <div class="page-content">
           ◊(->html doc #:splice? #t)
         </div>
+      </div>
+      <div class="footer">
+        ◊when/splice[(and (not-section-start? prev-page) prev-page)]{ <a href="" title="◊(select-from-metas 'title prev-page)">← </a> ·}
+        <a href="/" title="home">⌂</a>
+        ◊when/splice[(and (not-section-start? prev-page) prev-page)]{· <a href="" title="◊(select-from-metas 'title next-page)"> →</a> }
       </div>
     </div>
 </div>

@@ -4,3 +4,9 @@ index.html
 ◊section_education{
     education/lectures.html
 }
+◊section_stories{
+    stories/ebiz.html
+}
+◊section_opinion{
+    opinion/news.html
+}

@@ -11,7 +11,7 @@ img {
 
 .container {
     max-width: 80%;
-    margin-top: 15%;
+    margin-top: 15vh;
     display: grid;
     grid-template-columns: 65% auto;
     grid-template-areas: "main side";
@@ -19,14 +19,29 @@ img {
 
 .main-side {
     grid-area: side;
+    display: grid;
+    grid-template-areas: "art"
+                         "links";
+}
+
+#side-links {
+    font-size: ◊(* 0.65 base-font-size)em;
+    grid-area: links;
+    justify-self: center;
 }
 
 .home-header {
+    cursor: default;
     font-family: ◊|sans-fonts|;
     color: #333;
     margin-bottom: 0.3em;
     font-size: 3em;
     font-weight: 600;
+    transition: color 1.5s ease-in-out;
+}
+
+.home-header:hover {
+    color: #000;
 }
 
 .main {
@@ -52,7 +67,7 @@ ul {
 }
 
 #sketch {
-    min-height: 400px;
+    min-height: 350px;
 }
 
 #sketch canvas {
