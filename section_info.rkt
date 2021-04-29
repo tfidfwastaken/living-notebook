@@ -3,9 +3,5 @@
 (provide sections)
 
 (define sections
-  '("education"))
-    #|
-    "opinions"
-    "education"
-    "bit shifting"))
-    |#
+  '("education"
+    "stories"))
