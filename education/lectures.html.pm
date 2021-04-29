@@ -1,10 +1,10 @@
 #lang pollen
 
-◊(define-meta title "How to give a Bad Lecture")
+◊(define-meta title "How to Give a Bad Lecture")
 
 As a full-time student who has sat in countless lousy lectures for over a decade and a half, I have attained immense wisdom on how to give a bad lecture.
 
-The key idea is the lack of soul. Every bad lecture starts with the request to settle down (or the online counterpart---"Am I audible?"). This is the peak of the lecture. You must proceed to dispense words, weasel words, and more words, stripped of meaning to leave behind what the brain can only process as arid sounds and syllables, with no pause for thought, no passion and no humanity.
+The key idea is the lack of soul. Every bad lecture starts with the request to settle down (or the online counterpart---"Am I audible?"). This is the peak of the lecture. You must proceed to dispense words, weasel words, and more words, stripped of meaning, to leave behind what I can interpret only as arid sounds, with no pause for thought, no passion, and no humanity.
 
 The sole strength of the lecture is the human touch. Books are more vast and carefully designed to help us learn concepts. Videos can have fancy visuals that help ideas click in our heads without words. A lecture has none of those---it's too coarse for subtle details, too spontaneous to be elaborate or visually appealing. But the lecture has the lecturer, the sum of a whole human life, their unique experiences, goals, passion and mind. This is the sole stilt that supports this shed. Your role as a bad lecturer, is to burn down this stilt and snort the ashes, before you begin your class.
 
@@ -18,7 +18,7 @@ Do not use the blackboard. Use PowerPoint slides, where you have copied a lot of
 
 Refer to your course information before your class. Look at the syllabus that needs to be covered for the day. Do not plan more than that. Of course, do not be too spontaneous or comfortable in class either. Any accidental glimpse of the lecturer's humanity might make your lecture remotely interesting. Focus on the checkpoint, that is the syllabus that needs to be covered. Sprint to that goal post, through your meandering monotone sustained for an hour.
 
-It is important for you to cultivate hazy thinking. Having clarity of thought might lead to your lecture being clear. This may accidentally grab the attention of your students. Never use unambiguous, concise sentences. Never stop for pauses. Never ponder. Make sure you are always droning in filler words, weasel words, uhhs, ums, geddits and okays. Your classes should avoid having spaced out beats, and instead adopt the tonal quality a muddy, continuous buzz.
+It is important for you to cultivate hazy thinking. Having clarity of thought might lead to your lecture being clear. This may accidentally grab the attention of your students. Never use unambiguous, concise sentences. Never stop for pauses. Never ponder. Make sure you are always droning in filler words, weasel words, uhhs, ums, geddits and okays. Your classes should avoid having spaced out beats, and instead adopt the tonal quality of a muddy, continuous buzz.
 
 Never let the students feel like you may be capable of addressing the questions that pop in their head. If a student asks you a question, just restate the bullet point in the slide that was related to their question. Append your answer with "Are you getting it?". Done enough times, this will ensure that the student gives up on trying to understand the idea. They will say yes because of the pressure of appearing stupid.
 
