@@ -2,7 +2,7 @@ POLLEN := $(wildcard *.ptree *.p *.pm *.pp ./*/*.pm ./*/*.pp ./*/*.p)
 CLJS := $(wildcard cljs-src/viz/*.cljs *.edn)
 JS-OUT := js/*.js
 POLLEN-TARGET := ../notebook-out/*
-POLLEN-OUT := ../notebook-out/
+POLLEN-OUT := tfidfwastaken.github.io/
 POLLEN-OUT-CNAME := ../notebook-out/CNAME
 PUBLISH_REMOTE := git@github.com:tfidfwastaken/tfidfwastaken.github.io.git
 
@@ -15,36 +15,24 @@ ${JS-OUT}: ${CLJS}
 
 ${POLLEN-TARGET}: ${POLLEN}
 	@echo "changed:" ${POLLEN}
-	mkdir -p ${POLLEN-OUT}
-	cp CNAME ${POLLEN-OUT-CNAME}
-	raco pollen render
-	raco pollen publish . ${POLLEN-OUT}
-	rm -rf .cpcache/
-	rm -rf resources/*
-	cd ${POLLEN-OUT}
-	git init ${POLLEN-OUT}
-	git remote add origin ${PUBLISH_REMOTE}
+	raco pollen render -r
+	raco pollen publish . /tmp/render
+	cp -r /tmp/render/* ${POLLEN-OUT} && rm ${POLLEN-OUT}/makefile && rm -r ${POLLEN-OUT}/${POLLEN-OUT}
+	git clean -xdf
 
 clean:
-	rm -rf compiled/
-	rm -rf target/
-	rm -rf /tmp/notebook-out
+	git clean -xdf
 
 .ONESHELL:
 publish: build
-	cd ${POLLEN-OUT}
+	cd ${POLLEN-OUT} && git add . && git commit -m "Update website: $$(cd .. && git log -1 --pretty=%B)"
 	@pwd
-	git add .
 ifdef m
-	git commit -m "$$m"
+	git commit -am "$$m"
 else
-	git commit -m "Updated website"
+	git commit -am 'Update website'
 endif
-	git push -f origin master
-
-setup:
-	git init ${POLLEN-OUT}
-	cd ${POLLEN-OUT}
-	git remote add origin ${PUBLISH_REMOTE}
+	cd ..
+	git push --recurse-submodules=on-demand
 
 .PHONY: all build clean publish setup
