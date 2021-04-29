@@ -7,10 +7,11 @@
     max-width: 80%;
     display: grid;
     grid-template-columns: 1fr 30% 30% 1fr;
-    grid-template-rows: 3em 1fr;
+    grid-template-rows: 3em 1fr 4em;
     grid-template-areas:
         "nav nav nav nav"
-        "page page page page";
+        "page page page page"
+        "footer footer footer footer";
 }
 
 .nav {
@@ -22,11 +23,26 @@
 }
 
 .nav a {
-    border-bottom: none;
     justify-self: center;
 }
 
 .nav a::after {
+    content: "";
+}
+
+.footer {
+    color: #7d4f27;
+    font-size: ◊(* 0.65 base-font-size)em;
+    grid-area: footer;
+    justify-self: center;
+    align-self: center;
+}
+
+.footer a {
+    justify-self: center;
+}
+
+.footer a::after {
     content: "";
 }
 

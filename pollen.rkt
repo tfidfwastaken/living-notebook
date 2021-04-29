@@ -4,7 +4,7 @@
          txexpr hyphenate
          "section_info.rkt")
 
-(provide root sn
+(provide root sn url
          base-font-size body-fonts sans-fonts
          sections)
 
@@ -17,6 +17,9 @@
 
 (define (sn . content)
   (txexpr 'aside '((class "sidenote")) content))
+
+(define (url src . text)
+  (txexpr 'a `((href ,src)) text))
 
 (define base-font-size 1.4)
 (define body-fonts "Source Serif Pro, Georgia, serif")
