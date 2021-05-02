@@ -9,11 +9,6 @@
   </head>
   <body>
     <div class="container" id="splash">
-      <div class="main-side">
-        <div id="sketch">
-        </div>
-        <span id="side-links"><a href="about.html">about</a> · <a href="">colophon</a> · <a href="https://github.com/tfidfwastaken/living-notebook">source</a></span>
-      </div>
       <div class="main">
         <div class="home-header">
           ◊(select-from-metas 'title 'index.html)
@@ -26,11 +21,14 @@
               <li><a href="◊|article|">◊(select-from-metas 'title article)</a></li>
             }
             </ul>
-          </div>
         }
         </div>
       </div>
+      <div class="main-side">
+        <div id="sketch">
+        </div>
+        <span id="side-links"><a href="about.html">about</a> · <a href="">colophon</a> · <a href="https://github.com/tfidfwastaken/living-notebook">source</a></span>
+      </div>
     </div>
-
   </body>
 </html>

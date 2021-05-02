@@ -21,6 +21,6 @@
 (define (url src . text)
   (txexpr 'a `((href ,src)) text))
 
-(define base-font-size 1.4)
+(define base-font-size 1.2)
 (define body-fonts "Source Serif Pro, Georgia, serif")
 (define sans-fonts "Source Sans Pro, Helvetica, Arial, sans-serif")

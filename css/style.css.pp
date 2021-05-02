@@ -10,13 +10,10 @@ html {
 
 body {
     background-color: #FAF9F6;
-    width: 87.5%;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 12.5%;
     font-family: ◊|body-fonts|;
     color: #111;
-    max-width: 1400px;
 }
 
 a {

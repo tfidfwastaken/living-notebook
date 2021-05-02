@@ -10,10 +10,12 @@ img {
 }
 
 .container {
+    margin-left: auto;
+    margin-right: auto;
     max-width: 80%;
     margin-top: 15vh;
     display: grid;
-    grid-template-columns: 65% auto;
+    grid-template-columns: 60% auto;
     grid-template-areas: "main side";
 }
 
@@ -25,14 +27,17 @@ img {
 }
 
 #side-links {
-    font-size: ◊(* 0.65 base-font-size)em;
+    font-size: ◊(* 0.86 base-font-size)em;
     grid-area: links;
     justify-self: center;
 }
 
 .home-header {
     cursor: default;
-    font-family: ◊|sans-fonts|;
+    /*font-family: ◊|sans-fonts|;*/
+    width: 70%;
+    font-family: "Source Serif Pro";
+    font-style: italic;
     color: #333;
     margin-bottom: 0.3em;
     font-size: 3em;
@@ -68,6 +73,7 @@ ul {
 
 #sketch {
     min-height: 350px;
+    justify-self: center;
 }
 
 #sketch canvas {
@@ -79,4 +85,18 @@ ul {
 
 #sketch canvas:hover {
     clip-path: circle(100%);
+}
+
+@media (max-width: 700px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+    #sketch {
+        display: none;
+    }
+    #side-links {
+        margin-top: 20%;
+        font-size: ◊(* 0.65 base-font-size)em;
+    }
 }
