@@ -68,7 +68,11 @@ ul {
     margin-top: 0.4em;
     padding-left: 0;
     list-style-type: none;
-    grid-template-columns: repeat(auto-fit,minmax(132px, 1fr));
+    grid-template-columns: repeat(auto-fit,minmax(132px, 70%));
+}
+
+ul li {
+    margin-bottom: 0.2em;
 }
 
 #sketch {

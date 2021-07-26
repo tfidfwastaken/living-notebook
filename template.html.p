@@ -13,11 +13,11 @@
       <div class="nav">
         ◊(define prev-page (previous here))
         ◊(define next-page (next here))
-        ◊(define (not-section-start? page)
-           (not (regexp-match? #rx"section_.*" (symbol->string prev-page))))
-        ◊when/splice[(and prev-page (not-section-start? prev-page))]{ <a href="" title="◊(select-from-metas 'title prev-page)">← </a> ·}
+        ◊(define (not-section-boundary? page)
+           (not (regexp-match? #rx"section_.*" (symbol->string page))))
+        ◊when/splice[(and prev-page (not-section-boundary? prev-page))]{ <a href="../◊prev-page" title="◊(select-from-metas 'title prev-page)">← </a> ·}
         <a href="/" title="home">⌂</a>
-        ◊when/splice[(and prev-page (not-section-start? prev-page))]{· <a href="" title="◊(select-from-metas 'title next-page)"> →</a> }
+        ◊when/splice[(and next-page (not-section-boundary? next-page))]{· <a href="../◊next-page" title="◊(select-from-metas 'title next-page)"> →</a> }
       </div>
       <div class="content">
         <h1 class="page-title">
@@ -28,9 +28,9 @@
         </div>
       </div>
       <div class="footer">
-        ◊when/splice[(and prev-page (not-section-start? prev-page))]{ <a href="" title="◊(select-from-metas 'title prev-page)">← </a> ·}
+        ◊when/splice[(and prev-page (not-section-boundary? prev-page))]{ <a href="../◊prev-page" title="◊(select-from-metas 'title prev-page)">← </a> ·}
         <a href="/" title="home">⌂</a>
-        ◊when/splice[(and prev-page (not-section-start? prev-page))]{· <a href="" title="◊(select-from-metas 'title next-page)"> →</a> }
+        ◊when/splice[(and next-page (not-section-boundary? next-page))]{· <a href="../◊next-page" title="◊(select-from-metas 'title next-page)"> →</a> }
       </div>
     </div>
 </div>
