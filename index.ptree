@@ -3,6 +3,7 @@
 index.html
 ◊section_education{
     education/lectures.html
+    education/building-a-community.html
 }
 ◊section_stories{
     stories/ebiz.html
