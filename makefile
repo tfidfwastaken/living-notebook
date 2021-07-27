@@ -26,6 +26,7 @@ clean:
 .ONESHELL:
 publish: build
 	cd ${POLLEN-OUT} ; git add --all && git commit -m "Update website: $$(cd .. && git log -1 --pretty=%B)"
+	git add ${POLLEN-OUT} && git commit -m "Update website gitlink"
 	git push --recurse-submodules=on-demand
 
 .PHONY: all build clean publish setup
