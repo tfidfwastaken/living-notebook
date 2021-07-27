@@ -4,7 +4,7 @@
          txexpr hyphenate
          "section_info.rkt")
 
-(provide root sn url
+(provide root sn url sec thematic-break
          base-font-size body-fonts sans-fonts
          sections)
 
@@ -20,6 +20,12 @@
 
 (define (url src . text)
   (txexpr 'a `((href ,src)) text))
+
+(define (sec . text)
+  (txexpr 'h2 '((class "section")) text))
+
+(define (thematic-break)
+  (txexpr 'div '((class "theme-break")) '((span "*") (span "*") (span "*"))))
 
 (define base-font-size 1.2)
 (define body-fonts "Source Serif Pro, Georgia, serif")

@@ -2,7 +2,6 @@
 
 @charset "UTF-8";
 @import url("style.css");
-@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@700&display=swap');
 
 .main {
     margin-left: auto;
@@ -85,6 +84,22 @@
     float: right;
     width: 30%;
     transform: translateY(-30%);
+}
+
+.section {
+    margin-top: 1.5em;
+    margin-bottom: -0.5em;
+    font-family: ◊|sans-fonts|;
+    font-size: 1em;
+}
+
+.theme-break {
+    text-align: center;
+}
+
+.theme-break span {
+    font-size: 1.2em;
+    margin-right: 8px;
 }
 
 #me {
