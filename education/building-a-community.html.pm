@@ -125,9 +125,9 @@ We had also had a team to actually audit the contributions that were being made.
 
 ◊fig["../images/building-a-community/repos_after_hack_day.jpg"]{Open Source repositories around the world after the hack day.}
 
-All that proselytizing and tireless efforts to build an Open Source community only to end with us ◊url["https://blog.domenic.me/hacktoberfest/"]{hurting maintainers of projects around the world with spam}. I was in denial about this for almost a whole year.
+All that proselytizing and tireless efforts to build an Open Source community only to end with us hurting maintainers of projects around the world with spam. I was in denial about this for almost a whole year.
 
-Our college happened to be ahead of the curve in this aspect, for there was a whole media debacle that followed in next year's Hacktoberfest around spam Pull Requests made by college students just for a free t-shirts, and the opportunity to pad their résumé with "Open Source contributions" to impress recruiters.
+Our college happened to be ahead of the curve in this aspect, for there was a ◊url["https://www.theregister.com/2020/10/01/digitalocean_hacktoberfest_pull_request_spam/"]{whole media debacle} that followed in next year's Hacktoberfest around spam Pull Requests made by college students just for a free t-shirts, and the opportunity to pad their résumé with "Open Source contributions" to impress recruiters.
 
 ◊sn{In the year that followed, I was wise enough to not conduct a local Hacktoberfest event.}
 
