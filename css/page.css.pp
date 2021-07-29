@@ -123,7 +123,10 @@ figcaption {
     transform: rotate(◊(random -3 3)deg);
 }
 
-@media (max-width: 700px) {
+@media (max-width: 980px) {
+    body {
+        font-size: ◊(* 2 base-font-size)em;
+    }
     .content {
         display: flex;
         flex-direction: column;
