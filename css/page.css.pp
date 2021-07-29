@@ -93,6 +93,16 @@
     font-size: 1em;
 }
 
+img {
+    max-width: 100%;
+}
+
+figcaption {
+    text-align: center;
+    margin-top: -1em;
+    font-size: ◊(* 0.65 base-font-size)em;
+}
+
 .theme-break {
     text-align: center;
 }
