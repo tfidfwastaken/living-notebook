@@ -1,0 +1,31 @@
+#lang pollen
+
+◊(define-meta title "repetitive strain injury. fractal brokenness.")
+
+My wrist mildly hurt, and had a small bump on it, so I thought I'd get it checked out. Easy, I thought. I'll go to Manipal, one of the biggest, most well-equipped hospital chains around. I got the app to book an appointment. One of the pleasures of modern technology is that I get to avoid awkward human contact to do mundane things like booking an appointment or paying a bill. I selected an ortho and got my appointment booked. I clicked on the confirmation button and nothing happened. I clicked on it again, and I got a pop-up message saying "already booked by patient". I did not see any prepayment option.
+
+Oh well. Just a bit of a rough edge in the UX, at least it showed up in my bookings. I'll pay at the hospital.
+
+I go to the hospital the next day. The reception is lovely, just like a posh hotel with the warm lighting, high ceiling and fancy light fixtures. Big touch screens facing me at the counter. I guess I just show my appointment on the app and make the payment. I join the back of the queue and open the appointment page for the app. I then see a button to generate an ID I show to the receptionist. I press it. It says I have to make a registration first. Oh well. I thought my Google sign in would be enough.
+
+I walk out of the queue.
+
+I type in my email, phone number, date of birth and ID proof details. In my lifetime, I'd have filled this countless times already, and would have to fill in countless more times. The date picker was the most fun, as I had to scroll back 21 years and hunt for the day I was brought onto this beautiful world on a calendar layout. Finding it only gets harder as I get older. I register just as the queue in front of me has almost cleared.
+
+I am back to the "Generate ID" screen. I press it again. I get a pop up saying internal server error. I press it again. It takes me back to the registration form, all fields empty. Oh well. I move aside and fill it again. This time it works. I even get a payment button, and on paying I'd get the ID. That would be convenient. I tap pay. Internal Server Error. I decide to accept this sunk cost, and I go to the now-empty queue and ask the receptionist about how I could get that number. She points to the large touch screen and says, register here.
+
+Alrighty then. I see the screen, and all I find is stray pixels of the hospital's logo. I swipe around and two letters fill up the screen. I realise that this is the same form I filled on the mobile, but zoomed in to otherworldly proportions. Pinching out did nothing. Oh well. It would be too tedious to fill this form. I walk to the other counter having a similar screen. The form has a more reasonable size there. I type all my details yet again. Strangely, this form asks more details than the one on the app. I am finally done, and as I tap "register" I notice that there was an out-of-place checkbox that was already checked and I did not notice. It said something about sending me hospital alerts and marketing.
+
+Before I can process that though, an ID flashed on the screen, with a timer counting down 10 seconds. I realise this was the ID I had to give the receptionist. I knew I could not memorise it so quickly. I take out my phone and open the camera. My phone lags, and by the time the camera opens, the ID is gone. Oh well. I tell the receptionist about how my ID got snapchatted away. She asks me to check my inbox, I'd have received a copy. How thoughtful. I open my Inbox and there it is. As I dictate the ID, my phone starts getting SMSes from the hospital, asking me to fill up a survey. But I finally got to pay.
+
+◊fig["https://www.oldbookillustrations.com/wp-content/high-res/1861/body-death-768.jpg"]{}
+
+The doctor diagnosed me with repetitive strain injury. The way God made wrists, he tells me, is for a large range of motion. When you move your wrists to type in a repetitive up-down motion, you damage the complex internal structures. Your hands are not made for such repetitive movements. Take this medicine everyday for five days to deal with inflammation. Take this other medicine before it to deal with the side effect (acidity) of the first medicine.
+
+Life is full of discovery and excitement. Well, some of it is. Most of it is filling forms. Life is boilerplate. Life is repetition. Life is navigating past joyous hold music to tell your ISP's customer support to fix the internet again, only to be asked to connect the LAN cable and report back. I don't have a LAN port on my laptop, I say. Then reset your router, they say. Life is about being in awe at how amazing we are as a species. Look at how we innovatively tackle the world's problems by replacing paperwork with broken software. The broken software is just a product of a broken system. The broken system is a product of a broken society. Society is broken because we have made a fragile cobweb of dependencies that no one understands or can fix.
+
+Life is about overcoming great challenges and the most testing times, to come out on top. Well, some of it. Most of it is trying to buy a damned wrist splint. I went to the drug store. The drug store guy told me to check the shop above the MRP alcohol shop. The shop above had shut down.
+
+Life is about uplifting the less privileged to progress as one. We can do it through technology. All the best to the other 99% who have to book an appointment for wrist pain. This is the fantastic modern world we have built. Why complain about the modern world. This genie is out of the bottle. What will you do, go back to fishing and picking berries to sustain yourself?
+
+I lose track of what I was saying. Life is worthwhile, and full of adventures. We learn from adversity. All that good jazz. Well, of course, all that awaits you once you file your taxes. And pay your phone bills. These are only small chores. Get them out of the way and you will enjoy the nature of being. Until you have to repeat those chores again. We will automate all that someday. Just as we always do, by adding more dependencies to this system to patch the system. As a chameleon on twitter once said, "we fix problem better!". And so we progress. I shall now rest my wrists. It has strained from the repetition.
