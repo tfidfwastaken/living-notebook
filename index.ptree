@@ -5,6 +5,7 @@ index.html
     education/lectures.html
     education/building-a-community.html
 }
-◊section_stories{
-    stories/ebiz.html
+◊section_memoirette{
+    memoirette/ebiz.html
+    memoirette/rsi.html
 }

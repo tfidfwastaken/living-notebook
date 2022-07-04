@@ -4,4 +4,4 @@
 
 (define sections
   '("education"
-    "stories"))
+    "memoirette"))
