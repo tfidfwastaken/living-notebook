@@ -1,0 +1,9 @@
+Title: MC Transition & Sponsor Acknowledgment
+Speakers: Tjas Kuman (IBM, MC)
+Event: AI Engineer World's Fair 2026 — Day 2: Autoresearch & Keynotes (2026-07-01)
+Source: https://www.youtube.com/watch?v=4sX_He5c4sI (01:35:37 - 01:36:50), YouTube auto-captions
+------------------------------------------------------------
+
+developer advocate at IBM, Tea Scamar. What an incredible start to the day. Woo! Everybody's leaving. This looks amazing from here. Um before we break off uh or after um let's take a moment and acknowledge the sponsors. Honestly, this would not be possible without them. We're going to get the slides up. Listen, you need to give them your biggest round of applause. I mean, it is so cool. Thank you. Thank you. Thank you. Thank you, Microsoft. Thank you to all the other sponsors here. This event would not be possible without them. There's plenty of other things happening um in the other stages, but there's no doubt that um evals are a huge deal in AI. In fact, they're the gate of quality, right?
+
+Um we can ship a lot of things, but if they're not eval, we ship a lot of slop. And so, uh our next discussion, our next session is going to be from Aparna Dinakan from Arise, who's going to talk to us a little bit about EVAS. Please, your biggest round of applause for Aparna. Please welcome to the stage co-founder

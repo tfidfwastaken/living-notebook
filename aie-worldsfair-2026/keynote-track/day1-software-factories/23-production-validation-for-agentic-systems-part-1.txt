@@ -1,0 +1,9 @@
+Title: Production Validation for Agentic Systems (part 1)
+Speakers: Shan Gupta (Meta)
+Event: AI Engineer World's Fair 2026 — Day 1: Software Factories & Keynotes (2026-06-30)
+Source: https://www.youtube.com/watch?v=htM02KMNZnk (04:30:03 - 04:31:50), YouTube auto-captions
+------------------------------------------------------------
+
+infrastructure for the meta super tangentes lab and their infrastructure organization. Today we're going to be talking about production val for authentic systems. When most people hear the word valuation, they think about benchmarks. A model scores 90% on a benchmark. A new version scores 92%, the team celebrates. But agent systems have fundamentally changed what the evaluation means. Today the systems don't simply generate answers. They plan, they call tools, they retrieve information, they execute workflows, they interact with the production infrastructure. The question is no longer did the model generate the right answer. The question is did the system behave correctly. Today I would like to discuss how evaluation is evolving from model benchmarking into production infrastructure. This is the problem almost every AI organization is encountering today.
+
+Offline benchmarks continue improving. Yet production reliability often remains unpredictable. Why is that? Because benchmarks measure model capability. Production measures system behavior. A benchmark doesn't capture tool failure, API outage, context changes, user variability, longunning workflows. And as systems become more autonomous, the gap between the benchmark performance and production performance grows. The result is what many teams All right. Hello everyone. Um,

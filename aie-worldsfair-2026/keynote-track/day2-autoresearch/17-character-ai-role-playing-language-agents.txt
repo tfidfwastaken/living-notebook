@@ -1,0 +1,9 @@
+Title: Character AI & Role-Playing Language Agents
+Speakers: Speaker name not clearly stated (Character AI/RPLA expert)
+Event: AI Engineer World's Fair 2026 — Day 2: Autoresearch & Keynotes (2026-07-01)
+Source: https://www.youtube.com/watch?v=4sX_He5c4sI (05:00:51 - 05:02:30), YouTube auto-captions
+------------------------------------------------------------
+
+something just so we're all on the same page about what we're even talking about. This is a platform called Character AI. It's a hybrid social media platform with role- playinging language agents. This is Hello History. It's a more education focused one where you can summon a persona such as Marcus Aurelius and be tutored by them. Millions of people open these tools and have conversations with Napoleon, Cleopatra, or Marcus Aurelius as you saw with a fictional companion or with a tutor wearing a historical face. The technical name for what's underneath these tools is role-playing language agent. a system built to instantiate a persona, real or invented, and reason and speak as them. Yes, it's entertainment and its companionship, but increasingly it's being proposed as civic and pedagogical infrastructure.
+
+And here's one more. This one's mine. This is a frontier model claude opus 4.7 same one you use running an open- source prompt framework that I built and called companion. Uh in this particular example I summoned a collection of founding fathers and set them in a room with the Epstein files. I asked them to counsel the soul of America. Uh that demo is live on our site uh if you want to play with it. Um,

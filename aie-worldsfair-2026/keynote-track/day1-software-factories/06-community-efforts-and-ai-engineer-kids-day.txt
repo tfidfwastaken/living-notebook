@@ -1,0 +1,11 @@
+Title: Community Efforts and AI Engineer Kids Day
+Speakers: swyx (AI Engineer / Latent Space)
+Event: AI Engineer World's Fair 2026 — Day 1: Software Factories & Keynotes (2026-06-30)
+Source: https://www.youtube.com/watch?v=htM02KMNZnk (00:54:35 - 00:57:00), YouTube auto-captions
+------------------------------------------------------------
+
+Please join me in welcoming co-founder of AI engineer an editor at Leighton Space, Swix. Hi. So, we actually were supposed to have Tashan from Z uh joining us today. Um he unfortunately couldn't make it in. uh to the United States. Uh but we have him dialed in. So Shan, are you live? Uh I hope I hope he's we're the team backstage is is dialing him live. Um one thing I also wanted to uh thank people for doing is this is a very very big community effort. Uh I love that. Thank you so much to the open open team uh for and to Microsoft for bringing the energy in the opening things. Um but even uh all you guys have been organizing all these side events uh and one of them I just wanted to shout out in particular the um AI engineer kids day.
+
+Um you know we are very sort of adult professional serious uh but we you know we also care about the next generation of AI engineers. So I wanted to play the video. We're here in San Francisco at AI Engineer Worlds Fair which is the biggest collection of AI engineers and entrepreneurs in the world and we're holding the first ever AI engineer kids day. And I really love this workshop series because we're inspiring the next generation of AI technologists. These kids are the people who will be doing AI in the future. They're very AI native. They'll be the AI experts. Something that makes this workshop stand apart is traditionally when you work with 3D games, if you don't use AI, it takes a really long time and you won't get as far.
+
+But in this workshop, because we use codeex, we were able to get a lot further than you normally would in a workshop and be able to explore a lot more advanced comp concepts than normal as well. Come here. It's really fun. Blah blah blah blah. And you can train AIS and create AIS and ask AIS to create games. Really fun. Give it up for the kids uh events. Thank you to Stephen Chin for running that um and basically generating the funnel for us for 10 15 years from now uh for our

@@ -1,0 +1,9 @@
+Title: MC Transition to Hugging Face
+Speakers: swyx (AI Engineer / Latent Space)
+Event: AI Engineer World's Fair 2026 — Day 1: Software Factories & Keynotes (2026-06-30)
+Source: https://www.youtube.com/watch?v=htM02KMNZnk (01:09:11 - 01:11:03), YouTube auto-captions
+------------------------------------------------------------
+
+Um, so uh trust me the very first World's Fair I wasn't allowed to come back in the country for for my own conference. So I know exactly this feeling. Uh but it's all good. uh the ZI team really appreciate them uh making the effort. They really want to meet you. They're here to meet you and this is the whole point of the world's fair to bring all the top world's AI uh companies and labs uh all in one place so you can do business together. Uh meet the people behind the models that you use ask the questions that he cannot answer in public but you can ask in private. Um I'm also very proud uh he showed uh Zen showed that that list of uh hugging face uh you know top uh contributors.
+
+I think we're are four for eight uh in that list uh present at Willsfair. Uh we're working with Nvidia and Unsllo and O Lama and and uh all those sort of finetuners as well to uh to make sort of the inference and the local tracks that you're going to see over the next few days. Um with that, thank you so much to Shen. Uh I'm going to invite on uh the next uh couple folks. I think I think I might be doing Alli's job here. So uh we'll we'll talk to Hugging Face uh next and and Minia. Thank you. Joining us on stage is the co-founder and chief science officer at Hugging

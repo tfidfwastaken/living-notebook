@@ -1,0 +1,9 @@
+Title: Manufacturing Knowledge Transfer: AI Agents Learning Company History
+Speakers: Rushab (Machine Craft (Manufacturing, India))
+Event: AI Engineer World's Fair 2026 — Day 1: Software Factories & Keynotes (2026-06-30)
+Source: https://www.youtube.com/watch?v=htM02KMNZnk (03:32:33 - 03:34:07), YouTube auto-captions
+------------------------------------------------------------
+
+Okay, I want to tell you a story about a factory that taught itself how to remember. Hi, I'm Rushab. I run machine craft, a 100 people factory in India. No data science team, no ML budget, none of that. And somehow we ended up building a 36 AI agent that runs our entire go to market. I think that's still a little ridiculous. Let me show you how it happened and why you can do the same thing. So here's the thing about our company. From the outside, it looks like machines and metal. But the actual company, the part that matters isn't the machines, is the knowledge. Who the customer is, what we quoted them in 2019, why that one machine needed that weird custom tweak.
+
+And for three generations, all of that lived in exactly three brains. initially my grandfather's then my father's and now mine which is a genuinely terrifying way to run a company when you sit with it a lot of people have joined us people have left us the revolving door never stopped and every single time someone walked out a chunk of our brain walked out with them we weren't scared of the competitors we were scared of forgetting or waking up one day and realizing the whole company. All right.

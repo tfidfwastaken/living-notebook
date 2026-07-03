@@ -1,0 +1,9 @@
+Title: Day 1 Closing Remarks and Event Wrap-up
+Speakers: Ally How (Keycard)
+Event: AI Engineer World's Fair 2026 — Day 1: Software Factories & Keynotes (2026-06-30)
+Source: https://www.youtube.com/watch?v=htM02KMNZnk (08:33:12 - 08:36:48), YouTube auto-captions
+------------------------------------------------------------
+
+Ladies and gentlemen, please put your hands together and welcome back our MC, member of the technical staff at Keycard, Ally Wow. Thank you. Wow, what an amazing first day of content here at AI Engineer. I think the biggest takeaway for me today after listening to all the amazing talks on software factories is that the raw materials for software factories exist right our context windows have gotten larger we have better memory model vision is improved we can actually verify the work we've got better AI security best practices now to understand patterns around agent identity and access control but we have to have the discipline to be able to wield all of the raw materials correctly in order to build software factories that actually work and that really resonated with me in some of the talks I heard this afternoon such as Dex's talk where I mentioned that one of the takeaways for me was that engineering as a practice is absolutely not dead.
+
+We might not be writing all of the code anymore and agents might be writing the code but engineering has to be part of that loop. Um especially if you want to write software factories that actually work and don't produce slop. So I hope everyone learned a lot today. I know I certainly did. And thank you so much for your curiosity, your optimism, your energy, and we'll see you back here tomorrow. Thank you so much. This is our third year doing the world's fair. We have so many events. You are helping us figure out what the future of engineering should look like. Down, hey, hey, hey, hey, hey. Come on, go go go. Hey, hey, hey.
