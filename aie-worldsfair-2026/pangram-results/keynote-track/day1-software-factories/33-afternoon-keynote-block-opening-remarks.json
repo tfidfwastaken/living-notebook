@@ -1,0 +1,36 @@
+{
+ "stage": "STAGE_SUCCESS",
+ "text": "Hey, hey, hey. Ladies and gentlemen, please put your hands together and welcome back our MC, member of the technical staff at Keycard, Ally How. Welcome back to our afternoon keynotes. I hope you all had an amazing day so far. I know I certainly have. I've enjoyed exploring the different talks across all of our different 18 different tracks. I've enjoyed exploring the expo session and I've enjoyed talking and networking with all of you. A engineer is a really special place where we can all come together in one space and have really interesting conversations that push the boundaries of what's next. It's a really powerful thing to get AI security engineers and AI engineers into the same room and understand how we can unblock um shipping because of security issues, ship faster and increase our engineering velocity.\n\nIt's also really exciting to get the same people that are building the models in the same room with the people that are using them so we can understand what actually works and help us define what's next. I'm super excited for the rest of our content today, but I want to take a moment to thank our amazing sponsors that make all of this possible. Let's take a round of applause for our presenting sponsor, Microsoft. I also want to recognize our lab and platinum sponsors. Also, our gold sponsors. Round of applause for them as well. And last but not least, I want to thank our silver and bronze sponsors, which there are innumeable amount of those as well.\n\nIt sterling takes a lot of people to put on this event. Um, and so super thankful to all of our different sponsors, thankful for all of the people that are here that make this community possible. Um, I know we've heard a lot about software factories today. And they're super interesting. We're all like very um allured by the promise of what the productivity and the unlock that they can deliver. But in practice, they can be more difficult than in theory. And I'm really excited because our next round of speakers are going to help us understand the best practices for loop engineering and help us understand how we can create software factories that actually work and don't produce slob.\n\nI'm super excited to introduce our very first speaker of the afternoon keynote sessions. Um, this speaker is a seasoned AIE speaker. Um he just told me this is his fourth time he's spoken at AI engineer which is incredible. Um this speaker is known for raging the war on slop. He is known for coining the the term context engineering and he is known for creating the research plan implement framework that we know and love. It's my honor to introduce um Jack Sworthis, co-founder and CEO of human layer to talk about harness engineering is not enough why software factories fail. Please welcome to the stage Jack.",
+ "version": "3.3.2",
+ "prediction": "We believe that this document is fully human-written",
+ "prediction_short": "Human",
+ "fraction_ai": 0.0,
+ "fraction_ai_assisted": 0.0,
+ "fraction_human": 1.0,
+ "headline": "Human Written",
+ "num_ai_segments": 0,
+ "num_ai_assisted_segments": 0,
+ "num_human_segments": 2,
+ "windows": [
+  {
+   "text": "Hey, hey, hey. Ladies and gentlemen, please put your hands together and welcome back our MC, member of the technical staff at Keycard, Ally How. Welcome back to our afternoon keynotes. I hope you all had an amazing day so far. I know I certainly have. I've enjoyed exploring the different talks across all of our different 18 different tracks. I've enjoyed exploring the expo session and I've enjoyed talking and networking with all of you. A engineer is a really special place where we can all come together in one space and have really interesting conversations that push the boundaries of what's next. It's a really powerful thing to get AI security engineers and AI engineers into the same room and understand how we can unblock um shipping because of security issues, ship faster and increase our engineering velocity.\n\nIt's also really exciting to get the same people that are building the models in the same room with the people that are using them so we can understand what actually works and help us define what's next. I'm super excited for the rest of our content today, but I want to take a moment to thank our amazing sponsors that make all of this possible. Let's take a round of applause for our presenting sponsor, Microsoft. I also want to recognize our lab and platinum sponsors. Also, our gold sponsors. Round of applause for them as well. And last but not least, I want to thank our silver and bronze sponsors, which there are innumeable amount of those as well.\n\nIt sterling takes a lot of people to put on this event. Um, and so super thankful to all of our different sponsors, thankful for all of the people that are here that make this community possible. Um, I know we've heard a lot about software factories today. And they're super interesting. We're all like very um allured by the promise of what the productivity and the unlock that they can deliver. But in practice, they can be more difficult than in theory. And I'm really excited because our next round of speakers are going to help us understand the best practices for loop engineering and help us understand how we can create software factories that actually work and don't produce slob.\n\nI'm super excited to introduce our very first speaker of the afternoon keynote sessions. Um, this speaker is a seasoned AIE speaker. Um he just told me this is his fourth time he's spoken at AI engineer which is incredible.",
+   "label": "Human Written",
+   "ai_assistance_score": 0.0019245644798502326,
+   "confidence": "High",
+   "start_index": 0,
+   "end_index": 2398,
+   "word_count": 423,
+   "token_length": 500
+  },
+  {
+   "text": " Um this speaker is known for raging the war on slop. He is known for coining the the term context engineering and he is known for creating the research plan implement framework that we know and love. It's my honor to introduce um Jack Sworthis, co-founder and CEO of human layer to talk about harness engineering is not enough why software factories fail. Please welcome to the stage Jack.",
+   "label": "Human Written",
+   "ai_assistance_score": 0.0019250879995524883,
+   "confidence": "High",
+   "start_index": 2398,
+   "end_index": 2788,
+   "word_count": 69,
+   "token_length": 81
+  }
+ ]
+}
