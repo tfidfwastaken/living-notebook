@@ -1,0 +1,36 @@
+{
+ "stage": "STAGE_SUCCESS",
+ "text": "Hi, I'm Burak. I'm the CTO of Mutagent and today we're basically going to talk about loops and how the agentic AI engineer works. So as you all are aware of now loops is the hot topic how you build software in an agentic loop and uh we apply the same loop to the building of AI agents and as you're all aware there's uh two concepts here one is the offline loop where while you build you iterate um on your agent you test it you evaluate it you improve it and you go on and then you have a second loop which is we call the online loop where once your agent is deployed to production, you monitor its traces, you diagnosis and then you feed it back into your optimization loop.\n\nUh yeah, [snorts] to iterate and have multiple versions of your agents. Yeah, up to until now um what we did was uh this doing this loop manually it's quite slow. Um the life cycle is basically um you have an issue. Um you want to change something to your agent. Um yeah, you implement the change. Um you maybe VIP implement the change if you use coding agents for it. Um yeah, you generate some samples for this new feature or issue to test it. Um yeah, then you look at the result. You look through the traces. How does the outcome look like? Then you maybe ship it. You do AB testing. And all your feedback is kind of manually.\n\nit takes very long. Um yeah and uh the the bottleneck basically becomes the human uh review and the human yeah building time and uh yeah that you can't scale especially if in your organization you're now planning to roll out hundreds of agents uh etc. Yeah. And uh yeah, this is why we think the agentic AI engineer is the natural next step to build agents. And I'll have Burak deep dive into how we improve timing and the the road to production reliability with the agentic engineer. Uh so yeah the key thing here is basically once you reach a certain number of agents or AI based features the human performing this loop again cannot really scale in enough time.\n\nSo this is why doing this agentically is the key to increasing the throughput because then you can fit many more cycles into the same time window. And now how that loop works is basically we have a few stages. So this is when you are starting from scratch like the current software development practices. You first create a spec for your agent or your skill in this case. And here you need to define all the responsibilities and the functions that agents needs to handle the decisions that it has to make on certain conditions. And here again this is only the definition stage once you defined your agents requirements. Hello",
+ "version": "3.3.2",
+ "prediction": "We believe that this document is fully human-written",
+ "prediction_short": "Human",
+ "fraction_ai": 0.0,
+ "fraction_ai_assisted": 0.0,
+ "fraction_human": 1.0,
+ "headline": "Human Written",
+ "num_ai_segments": 0,
+ "num_ai_assisted_segments": 0,
+ "num_human_segments": 2,
+ "windows": [
+  {
+   "text": "Hi, I'm Burak. I'm the CTO of Mutagent and today we're basically going to talk about loops and how the agentic AI engineer works. So as you all are aware of now loops is the hot topic how you build software in an agentic loop and uh we apply the same loop to the building of AI agents and as you're all aware there's uh two concepts here one is the offline loop where while you build you iterate um on your agent you test it you evaluate it you improve it and you go on and then you have a second loop which is we call the online loop where once your agent is deployed to production, you monitor its traces, you diagnosis and then you feed it back into your optimization loop.\n\nUh yeah, [snorts] to iterate and have multiple versions of your agents. Yeah, up to until now um what we did was uh this doing this loop manually it's quite slow. Um the life cycle is basically um you have an issue. Um you want to change something to your agent. Um yeah, you implement the change. Um you maybe VIP implement the change if you use coding agents for it. Um yeah, you generate some samples for this new feature or issue to test it. Um yeah, then you look at the result. You look through the traces. How does the outcome look like? Then you maybe ship it. You do AB testing. And all your feedback is kind of manually.\n\nit takes very long. Um yeah and uh the the bottleneck basically becomes the human uh review and the human yeah building time and uh yeah that you can't scale especially if in your organization you're now planning to roll out hundreds of agents uh etc. Yeah. And uh yeah, this is why we think the agentic AI engineer is the natural next step to build agents. And I'll have Burak deep dive into how we improve timing and the the road to production reliability with the agentic engineer. Uh so yeah the key thing here is basically once you reach a certain number of agents or AI based features the human performing this loop again cannot really scale in enough time.\n\nSo this is why doing this agentically is the key to increasing the throughput because then you can fit many more cycles into the same time window. And now how that loop works is basically we have a few stages. So this is when you are starting from scratch like the current software development practices.",
+   "label": "Human Written",
+   "ai_assistance_score": 0.002065858105197549,
+   "confidence": "High",
+   "start_index": 0,
+   "end_index": 2279,
+   "word_count": 433,
+   "token_length": 489
+  },
+  {
+   "text": " You first create a spec for your agent or your skill in this case. And here you need to define all the responsibilities and the functions that agents needs to handle the decisions that it has to make on certain conditions. And here again this is only the definition stage once you defined your agents requirements. Hello",
+   "label": "Human Written",
+   "ai_assistance_score": 0.0020177036058157682,
+   "confidence": "High",
+   "start_index": 2279,
+   "end_index": 2600,
+   "word_count": 57,
+   "token_length": 60
+  }
+ ]
+}

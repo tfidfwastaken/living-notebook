@@ -1,0 +1,36 @@
+{
+ "stage": "STAGE_SUCCESS",
+ "text": "Not for human. In 2026, coding agents will quietly retire their first software platform. Not because it's bad, simply because the platform is unnecessary. I am Dominic Turno. I am founder and CEO of Resonate. Resonate is a durable execution platform built with minimalism and simplicity as its core technical values. And these properties will play a central role in this talk. At Resonate, we have a working theory where software engineering is headed. Generalpurpose implementations will increasingly be replaced by bespoke implementations generated on demand, not as a new library, a new framework, or a new platform, but as a minimal extension of the infrastructure that is already in place. If this theory holds true, reuse will move upstream.\n\nInstead of reusing a general purpose implementation, we will reuse a specification and we will derive a bespoke implementation from it. In fact, we can build many bespoke implementations tailor made for the infrastructure that is already in place. We just have to ask the agent. At this point, the prompt is a platform. Resonate is a dual execution platform. We have an implementation of the Resonate server. We have implementations of the Resonate SDK for TypeScript, Python, Rust, Go, and Java. So, we have to ask what does this new reality mean for us? If implementations become generatable, where does our value live? And our answer, our value moves from implementation to specification. Now this changes how we think about Resonate.\n\nThe product is no longer the implementation. The product is the specification, the protocol. And from that protocol, we want to derive multiple server implementations. One is a general purpose resonate server, our reference implementation. Others are implementations built with infrastructure partners. For customers and partners, this means durable execution right on top of their existing infrastructure with minimal additional dependencies. So the question is no longer can we build a server. The question is can we repeatedly synthesize trusted servers from the same specification and if so how? When we talk about agentic engineering we focus all of our attention on verification. How do we know the result is correct? But today I want to focus on the specification instead and more importantly how can agents participate in specifying the system not just building or verifying it.\n\nNow Resonate is partnering with multiple infrastructure providers to bring durable executions natively to their technology stack. One of them is Senadia the company behind Nats.io an open-source messaging system designed for building modern distributed systems. for the rest of this presentation.",
+ "version": "3.3.2",
+ "prediction": "We believe that this document is fully human-written",
+ "prediction_short": "Human",
+ "fraction_ai": 0.0,
+ "fraction_ai_assisted": 0.0,
+ "fraction_human": 1.0,
+ "headline": "Human Written",
+ "num_ai_segments": 0,
+ "num_ai_assisted_segments": 0,
+ "num_human_segments": 2,
+ "windows": [
+  {
+   "text": "Not for human. In 2026, coding agents will quietly retire their first software platform. Not because it's bad, simply because the platform is unnecessary. I am Dominic Turno. I am founder and CEO of Resonate. Resonate is a durable execution platform built with minimalism and simplicity as its core technical values. And these properties will play a central role in this talk. At Resonate, we have a working theory where software engineering is headed. Generalpurpose implementations will increasingly be replaced by bespoke implementations generated on demand, not as a new library, a new framework, or a new platform, but as a minimal extension of the infrastructure that is already in place. If this theory holds true, reuse will move upstream.\n\nInstead of reusing a general purpose implementation, we will reuse a specification and we will derive a bespoke implementation from it. In fact, we can build many bespoke implementations tailor made for the infrastructure that is already in place. We just have to ask the agent. At this point, the prompt is a platform. Resonate is a dual execution platform. We have an implementation of the Resonate server. We have implementations of the Resonate SDK for TypeScript, Python, Rust, Go, and Java. So, we have to ask what does this new reality mean for us? If implementations become generatable, where does our value live? And our answer, our value moves from implementation to specification. Now this changes how we think about Resonate.\n\nThe product is no longer the implementation. The product is the specification, the protocol. And from that protocol, we want to derive multiple server implementations. One is a general purpose resonate server, our reference implementation. Others are implementations built with infrastructure partners. For customers and partners, this means durable execution right on top of their existing infrastructure with minimal additional dependencies. So the question is no longer can we build a server. The question is can we repeatedly synthesize trusted servers from the same specification and if so how? When we talk about agentic engineering we focus all of our attention on verification. How do we know the result is correct? But today I want to focus on the specification instead and more importantly how can agents participate in specifying the system not just building or verifying it.\n\nNow Resonate is partnering with multiple infrastructure providers to bring durable executions natively to their technology stack.",
+   "label": "Human Written",
+   "ai_assistance_score": 0.001961764879524708,
+   "confidence": "High",
+   "start_index": 0,
+   "end_index": 2505,
+   "word_count": 397,
+   "token_length": 482
+  },
+  {
+   "text": " One of them is Senadia the company behind Nats.io an open-source messaging system designed for building modern distributed systems. for the rest of this presentation.",
+   "label": "Human Written",
+   "ai_assistance_score": 0.001961764879524708,
+   "confidence": "High",
+   "start_index": 2505,
+   "end_index": 2672,
+   "word_count": 25,
+   "token_length": 31
+  }
+ ]
+}
