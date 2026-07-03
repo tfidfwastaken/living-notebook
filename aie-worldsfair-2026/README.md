@@ -133,3 +133,7 @@ Notes and caveats:
 | [32-hiring-employable-agents-product-form-factors-for-agentic-sy.txt](keynote-track/day3-harness-engineering/32-hiring-employable-agents-product-form-factors-for-agentic-sy.txt) | Hiring Employable Agents: Product Form Factors for Agentic Systems | Howie Liu (Airtable / Hyper Agent) | 08:19:24–08:36:18 | 3377 |
 | [33-startup-battlefield-live-pitches-judging-awards.txt](keynote-track/day3-harness-engineering/33-startup-battlefield-live-pitches-judging-awards.txt) | Startup Battlefield: Live Pitches, Judging & Awards | Howie Liu (Airtable), Joshua Xu (HeyGen), swyx (AI Engineer), Theo Browne (T3 Tools) + finalist founders | 08:36:30–09:08:30 | 4916 |
 
+
+## Individual session uploads (breakout + online track)
+
+120 talks published on the @aidotengineer channel around the event (in-person session uploads from July 2-3 plus the WF2026 Online Track). See [talks/INDEX.tsv](talks/INDEX.tsv) for the file/title/video-id map.
