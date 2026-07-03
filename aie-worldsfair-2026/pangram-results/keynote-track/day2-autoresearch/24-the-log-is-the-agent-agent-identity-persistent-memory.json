@@ -1,0 +1,26 @@
+{
+ "stage": "STAGE_SUCCESS",
+ "text": "and today I'm going to be talking about the log is the agent. The basic idea of the talk is simple and that is most people think of an agent as the model or the execution environment that it's running in. And I think that that's the wrong abstraction. I think that the thing that actually gives an agent its identity is its log. And that's what I'm going to be arguing today. So, think about a character you've spent a hundred hours playing in your favorite video game, in this case Skyrim. What exactly is your character? Is it the game engine? Is it the PlayStation? Is it the controller? No, it's not. Those things matter and those things are what we'll interact with and they'll run the character.\n\nBut none of those things are your character. Your character is data. It's the save file. And this is important because if your PlayStation bursts into flames, your character isn't gone. You can buy another PlayStation. You can download your save file from the cloud and you can resume exactly where they were. And that's because the agent and its identity and history and its state is all captured in its data. The character lives in the data. And this is the framing that I want to bring to agents today. When people talk about agents, they usually point at the wrong thing. They'll say that the agent is the model or they'll say that it's the runtime. And again, as I mentioned earlier, those things matter, but they're not the agent.\n\nThe agent is its data. It's specifically the log. So what actually is the log? At the simplest level, the log is the appendon event history of the agent. It's every user input, every model output, every tool call, tool result, permission, failure. And the idea is that every state transition that the agent takes is written to the log. This is important because it means that the identity of the agent isn't tied to the runtime or the model or the tools. Those things are all just interpreting and appending to the log. They're reading the log, acting on it, and writing the next event back. And that's important because then just using the log on its own is enough to resume the agent.\n\nOnce you define the agent as the log, the Hello everyone. How's everyone doing?",
+ "version": "3.3.2",
+ "prediction": "We believe that this document is fully human-written",
+ "prediction_short": "Human",
+ "fraction_ai": 0.0,
+ "fraction_ai_assisted": 0.0,
+ "fraction_human": 1.0,
+ "headline": "Human Written",
+ "num_ai_segments": 0,
+ "num_ai_assisted_segments": 0,
+ "num_human_segments": 1,
+ "windows": [
+  {
+   "text": "and today I'm going to be talking about the log is the agent. The basic idea of the talk is simple and that is most people think of an agent as the model or the execution environment that it's running in. And I think that that's the wrong abstraction. I think that the thing that actually gives an agent its identity is its log. And that's what I'm going to be arguing today. So, think about a character you've spent a hundred hours playing in your favorite video game, in this case Skyrim. What exactly is your character? Is it the game engine? Is it the PlayStation? Is it the controller? No, it's not. Those things matter and those things are what we'll interact with and they'll run the character.\n\nBut none of those things are your character. Your character is data. It's the save file. And this is important because if your PlayStation bursts into flames, your character isn't gone. You can buy another PlayStation. You can download your save file from the cloud and you can resume exactly where they were. And that's because the agent and its identity and history and its state is all captured in its data. The character lives in the data. And this is the framing that I want to bring to agents today. When people talk about agents, they usually point at the wrong thing. They'll say that the agent is the model or they'll say that it's the runtime. And again, as I mentioned earlier, those things matter, but they're not the agent.\n\nThe agent is its data. It's specifically the log. So what actually is the log? At the simplest level, the log is the appendon event history of the agent. It's every user input, every model output, every tool call, tool result, permission, failure. And the idea is that every state transition that the agent takes is written to the log. This is important because it means that the identity of the agent isn't tied to the runtime or the model or the tools. Those things are all just interpreting and appending to the log. They're reading the log, acting on it, and writing the next event back. And that's important because then just using the log on its own is enough to resume the agent.\n\nOnce you define the agent as the log, the Hello everyone. How's everyone doing?",
+   "label": "Human Written",
+   "ai_assistance_score": 0.0023092408664524555,
+   "confidence": "High",
+   "start_index": 0,
+   "end_index": 2208,
+   "word_count": 401,
+   "token_length": 482
+  }
+ ]
+}
